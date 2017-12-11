@@ -1,3 +1,11 @@
 :local(.app) {
-  margin: 20px;
+  margin: 80px;
+}
+
+:local(.box) {
+  margin: 40px;
+}
+
+:local(.list) {
+  margin: 2px;
 }
